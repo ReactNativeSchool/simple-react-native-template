@@ -15,9 +15,7 @@ It's easy to create a project, strip out the few components included, and still 
 > Be sure to have the [React Native CLI](https://reactnative.dev/docs/environment-setup) installed.
 
 ```bash
-npx react-native init --template @react-native-school/react-native-template
-yarn install
-npx pod-install
+npx react-native init AppName --template @react-native-school/react-native-template
 ```
 
 ## Usage
