@@ -1,6 +1,6 @@
 {
   "name": "@react-native-school/react-native-template",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple React Native template with testing, navigation, and code formatting setup.",
   "author": "Spencer Carli",
   "license": "MIT",
