@@ -29,7 +29,7 @@
     "@testing-library/react-hooks": "^8.0.1",
     "@testing-library/react-native": "^12.1.2",
     "babel-jest": "^29.2.1",
-    "eslint": "^8.19.0",
+    "eslint": "^7.32.0",
     "eslint-config-handlebarlabs": "^0.0.6",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
